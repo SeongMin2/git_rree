@@ -4,4 +4,6 @@ def ho(text):
     return t
 
 t = "yohoho"
+b = "sosad!!"
+c = "Its good!"
 haha = ho(t)
