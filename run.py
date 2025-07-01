@@ -3,5 +3,5 @@ def ho(text):
     t = text + "home"
     return t
 
-t = "yo"
+t = "yohoho"
 haha = ho(t)
